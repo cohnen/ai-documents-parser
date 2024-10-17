@@ -1,8 +1,14 @@
+![AI ixigo Logo](static/ai-ixigo-logo.png)
+
 # AI Claude Document Parser
 
 ## Overview
 
 AI Claude Document Parser is an intelligent tool designed to extract information from various types of identification documents, such as passports and ID cards. Using advanced image processing and AI-powered text recognition, this tool can parse important details from document images and compile them into a structured format.
+
+Intellectual Authors: Dawar Ali & Ernesto Cohnen
+
+For more information, visit [ixigo.tech](https://ixigo.tech)
 
 ## Features
 
